@@ -21,5 +21,5 @@ class CustomUserAdmin(UserAdmin):
                     "superhost",
                 )
             },
-        )
+        ),
     )
