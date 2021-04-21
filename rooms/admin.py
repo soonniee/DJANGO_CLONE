@@ -89,5 +89,4 @@ class RoomAdmin(admin.ModelAdmin):
 
 @admin.register(models.Photo)
 class PhotoAdmin(admin.ModelAdmin):
-
     pass
